@@ -1,0 +1,1 @@
+CREATE DATABASE bike_rental_db ENCODING 'UTF8';
